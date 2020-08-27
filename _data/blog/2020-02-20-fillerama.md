@@ -8,7 +8,7 @@ metaDescription: >-
   methods of tech savvy hackers preying on unprepared businesses
 thumbnail: /assets/image-3.jpg
 ---
-> Due to the COVID-19 outbreak an uptick in sophisticated phishing email schemes by cybercriminals has emerged. Malicious actors are posing as the Center for Disease Control and Prevention (CDC) or World Health Organization (WHO) representatives.
+> ### Due to the COVID-19 outbreak an uptick in sophisticated phishing email schemes by cybercriminals has emerged. Malicious actors are posing as the Center for Disease Control and Prevention (CDC) or World Health Organization (WHO) representatives.
 
 These emails are designed to deceive and trick recipients into taking an action such as clicking a malicious link, or opening an attachment with a virus. Learn what steps you can take to help prevent phishing attacks.
 
@@ -16,8 +16,7 @@ free security policy templates - PurpleSec Network Security Vulnerabilities A ne
 
 Malware Statistics Malware, or malicious software, is any piece of software that was written with the intent of doing harm to data, devices or to people. Types of malware include computer viruses, trojans, spyware, ransomware, adware, worms, file-less malware, or hybrid attacks. Recent malware attacks have bencome more sophisticated with the advent of machine learning and targeted spear phishing emails.
 
-The total malware infections have been on the rise for the last ten years: 2009 – 12.4 million 2010 – 29.97 million
-2011 – 48.17 million
+The total malware infections have been on the rise for the last ten years: 2009 – 12.4 million 2010 – 29.97 million 2011 – 48.17 million
 2012 – 82.62 million
 2013 – 165.81 million
 2014 – 308.96 million
@@ -46,8 +45,7 @@ Over 18 million websites are infected with malware at a given time each week.
 Ransomware Statistics
 Ransomware is a form of malicious software that threatens you with harm, usually by denying you access to your data. Ransomware attacks are often deployed via social engineering tacitics. Once a user falls victim to the attack, their data is encrpyted. The attacker then demands a ransom from the victim, with the promise to restore access to the data upon payment.
 
-Ransomware attacks worldwide rose 350% in 2018. Ransomware attacks are estimated to cost $6 trillion annually by 2021. 50% of a surveyed 582 information security professionals do not believe their organization is prepared to repel a ransomware attack.
-81% of cyber security experts believe there will be more ransomware attacks than ever in 2019.
+Ransomware attacks worldwide rose 350% in 2018. Ransomware attacks are estimated to cost $6 trillion annually by 2021. 50% of a surveyed 582 information security professionals do not believe their organization is prepared to repel a ransomware attack. 81% of cyber security experts believe there will be more ransomware attacks than ever in 2019.
 75% of companies infected with ransomware were running up-to-date endpoint protection.
 Ransomware costs businesses more than $75 billion per year.
 The NotPeyta ransomware attack losses could exceed $1 billion.
@@ -56,8 +54,7 @@ Atlanta, Georgia has spent more than $5 million rebuilding its computer network,
 The average cost of a ransomware attack on businesses was $133,000.
 ransomware statistics 2019
 
-Businesses lost around $8,500 per hour due to ransomware-induced downtime. 25% of business executives would be willing to pay between $20,000 and $50,000 to regain access to encrypted data 30% of organizations who pay the ransom receive all of their money back.
-40% of ransomware victims paid the ransom.
+Businesses lost around $8,500 per hour due to ransomware-induced downtime. 25% of business executives would be willing to pay between $20,000 and $50,000 to regain access to encrypted data 30% of organizations who pay the ransom receive all of their money back. 40% of ransomware victims paid the ransom.
 More than 50% of ransoms were paid by bitcoin in 2018.
 10% of all ransom demands are over $5,000.
 Of the 1,100 IT professionals surveyed, 90% had clients that suffered ransomware attacks in the past year.
@@ -69,17 +66,14 @@ READ MORE STATS
 Cryptojacking
 Cryptojacking is the unauthorized use of someone else’s computer to mine cryptocurrency. Hackers do this by getting the victim to click on a malicious link in an email that loads crypto mining code on the computer, or by infecting a website with JavaScript code that executes once loaded in the victim’s browser.
 
-25% of businesses are estimated to have been victims of cryptojacking Cryptojacking activity surged to its peak in December 2017, when more than 8 million cryptojacking events were blocked by Symantec. 25% of the WordPress plugins among Alexa’s most popular sites are flagged with critical vulnerabilities that could allow mining botnets in.
-Applications can take 5 – 10 longer to load when a computer is being used for coin mining.
+25% of businesses are estimated to have been victims of cryptojacking Cryptojacking activity surged to its peak in December 2017, when more than 8 million cryptojacking events were blocked by Symantec. 25% of the WordPress plugins among Alexa’s most popular sites are flagged with critical vulnerabilities that could allow mining botnets in. Applications can take 5 – 10 longer to load when a computer is being used for coin mining.
 Social Engineering Statistics
 Social engineering in cyber security is the psychological manipulation of people into performing actions or divulging confidential information. Candidates for a social engineering attack can range from a corporate executive to an elementary school student. Even the most seasoned IT professional can be victimized by this type of attack.
 
-98% of cyber attacks rely on social engineering. Recent data breach statistics found that 63% of successful attacks come from internal sources, either control, errors, or fraud. 43% of the IT professionals said they had been targeted by social engineering schemes in the last year.
-New employees are the most susceptible to socially engineered attacks, with 60% of IT professionals citing recent hires as being at high risk.
+98% of cyber attacks rely on social engineering. Recent data breach statistics found that 63% of successful attacks come from internal sources, either control, errors, or fraud. 43% of the IT professionals said they had been targeted by social engineering schemes in the last year. New employees are the most susceptible to socially engineered attacks, with 60% of IT professionals citing recent hires as being at high risk.
 social engineering statistics 2019
 
-21% of current or former employees use social engineering to gain a financial advantage, for revenge, out of curiosity or for fun. Social engineering attempts spiked more than 500% from the first to second quarter of 2018. The number of breach incidents by type:
-Identity theft – 65%
+21% of current or former employees use social engineering to gain a financial advantage, for revenge, out of curiosity or for fun. Social engineering attempts spiked more than 500% from the first to second quarter of 2018. The number of breach incidents by type: Identity theft – 65%
 Account access – 17%
 Financial access – 13%
 Nuisance – 4%
@@ -99,8 +93,7 @@ Technology: 171 million records, or 4%
 Phising Statistics
 Phishing is a type of cyber attack where threat actors randomly send emails to a broad audience in an attempt to trick people into providing sensitive information such as account credentials or sensetive information. Targeted emails, or spear phishing, is reported by businesses to be used in 91% of successful data breaches and 95% of all enterpise networks.
 
-56% of IT decision makers say targeted phishing attacks are their top security threat. 83% of global infosec respondents experienced phishing attacks in 2018, an increase from 76% in 2017. Business email compromise (BEC) scams cost organizations $676 million in 2017.
-CEO fraud is now a $12 billion scam.
+56% of IT decision makers say targeted phishing attacks are their top security threat. 83% of global infosec respondents experienced phishing attacks in 2018, an increase from 76% in 2017. Business email compromise (BEC) scams cost organizations $676 million in 2017. CEO fraud is now a $12 billion scam.
 30% of phishing messages get opened by targeted users and 12% of those users click on the malicious attachment or link.
 Only 3% of targeted users report malicious emails to management.
 53% of IT and security professionals say they have experienced a targeted phishing attack in 2017.
@@ -151,8 +144,7 @@ The average cost of a malware attack on a company is $2.4 million.
 The average cost in time of a malware attack is 50 days.
 2019 cost of data breach report
 
-Global average total cost of a data breach (in millions): 2014 – $3.50 2015 – $3.79
-2016 – $4.00
+Global average total cost of a data breach (in millions): 2014 – $3.50 2015 – $3.79 2016 – $4.00
 2017 – $3.62
 2018 – $3.86
 2019 – $3.92
@@ -221,8 +213,7 @@ In 2018, Under Armor reported that its “My Fitness Pal” was hacked, affectin
 Between January 1, 2005 and April 18, 2018 there have been 8,854 recorded breaches.
 Spending On Cyber Security Will Reach $1 Trillion By 2020.
 
-Small Business 43% of cyber attacks target small business. 47% of small businesses had at lease on cyber attack in the past year, 44% of those had two to four attacks.
-70% of small businesses are unprepared to deal with a cyber attack.
+Small Business 43% of cyber attacks target small business. 47% of small businesses had at lease on cyber attack in the past year, 44% of those had two to four attacks. 70% of small businesses are unprepared to deal with a cyber attack.
 3 out of 4 small businesses say they don’t have sufficient personnel to address IT security.
 66% of small business are very concerned about cyber security risk.
 85% of small businesses plan to increase spending on managed security services.
@@ -351,8 +342,7 @@ Frequently Asked Questions
 
 Not finding the right answer to your questions? Ask our experts!
 
-Where are your sources? Where do most cyber attacks come from? What percentage of malware is distributed by email?
-How many businesses are targeted by spear-phishing attacks each day?
+Where are your sources? Where do most cyber attacks come from? What percentage of malware is distributed by email? How many businesses are targeted by spear-phishing attacks each day?
 What percentage of successful cyber attacks were caused by someone falling for a phishing attack?
 Cyber Security Resources
 what is cyber security?
@@ -363,20 +353,15 @@ Most Common Types Of Network Vulnerabilities - cyber security resources
 Common Vulnerabilities
 A network vulnerability is a weakness or flaw in software, hardware, or organizational processes, which may result in a security breach. Learn how you can protect your business.
 
-LEARN MORE Cyber Security Policy Templates - Cyber Security Resources Cyber Security Templates
-Looking for the latest cyber security policy templates? Check out our library of free templates to secure your network from ransomware, email phishing, and socially engineered attacks.
+LEARN MORE Cyber Security Policy Templates - Cyber Security Resources Cyber Security Templates Looking for the latest cyber security policy templates? Check out our library of free templates to secure your network from ransomware, email phishing, and socially engineered attacks.
 
-LEARN MORE 2019 Malware Statistics Cyber Security Statistics
-Check out hundreds of the latest cyber security statistics and metrics including the top network vulnerabilities, social engineering, penetration testing, compliance and more.
+LEARN MORE 2019 Malware Statistics Cyber Security Statistics Check out hundreds of the latest cyber security statistics and metrics including the top network vulnerabilities, social engineering, penetration testing, compliance and more.
 
-LEARN MORE steps to performing a successful network vulnerability assessment Vulnerability Assessments
-A vulnerability assessment is a process of identifying security vulnerabilities in systems, quantifying and analyzing them, and remediating those vulnerabilities based on predefined risks.
+LEARN MORE steps to performing a successful network vulnerability assessment Vulnerability Assessments A vulnerability assessment is a process of identifying security vulnerabilities in systems, quantifying and analyzing them, and remediating those vulnerabilities based on predefined risks.
 
-LEARN MORE types of penetration tests - cyber security resources Types Of Penetration Tests
-The types of penetration tests include network services, web application, client side, wireless, social engineering, and physical. A penetration test may be performed externally or internally.
+LEARN MORE types of penetration tests - cyber security resources Types Of Penetration Tests The types of penetration tests include network services, web application, client side, wireless, social engineering, and physical. A penetration test may be performed externally or internally.
 
-LEARN MORE Protect Your Business From Cyber Attacks - cyber security resources Protect Your Business
-It’s no secret that businesses are lucrative targets for would-be assailants. Many businesses store valuable data and trade secrets that attackers leverage against a company or to sell it on the market.
+LEARN MORE Protect Your Business From Cyber Attacks - cyber security resources Protect Your Business It’s no secret that businesses are lucrative targets for would-be assailants. Many businesses store valuable data and trade secrets that attackers leverage against a company or to sell it on the market.
 
 LEARN MORE Network Vulnerability Scanning And Assessment Services - Purplesec Protect Your Business From Cyber Attacks
 
@@ -396,18 +381,15 @@ Number of Assets (IPs)
 
 Tell Us About Your Project
 
-Security Resources Penetration Testing Guide Cyber Security Policy Templates
-2019 Cyber Security Statistics
+Security Resources Penetration Testing Guide Cyber Security Policy Templates 2019 Cyber Security Statistics
 Vulnerability Assessment Template
 Penetration Testing Template
 What Is CMMC?
 
-Agency Services Managed Security Services Social Engineering
-Penetration Testing
+Agency Services Managed Security Services Social Engineering Penetration Testing
 Vulnerability Risk Assessments
 
-Our Company Blog Our Experts
-Twitter
+Our Company Blog Our Experts Twitter
 Pinterest
 YouTube
 202-556-3903
