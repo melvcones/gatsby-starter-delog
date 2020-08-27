@@ -12,7 +12,6 @@ export default function Template({
   return (
     <Layout>
       <Helmet>
-</head>
         <title>{frontmatter.title} | {siteMetadata.title}</title>
         <meta name="description" content={frontmatter.metaDescription} />
       </Helmet>
