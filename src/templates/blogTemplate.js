@@ -17,6 +17,7 @@ export default function Template({
       </Helmet>
       <div className="blog-post-container">
         <article className="post">
+
           
           {!frontmatter.thumbnail && (
             <div className="post-thumbnail">
