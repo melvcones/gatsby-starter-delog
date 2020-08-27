@@ -16,8 +16,8 @@ export default function Template({
         <meta name="description" content={frontmatter.metaDescription} />
       </Helmet>
       <div className="blog-post-container">
-        <article className="post">
-
+        
+<div data-netlify-identity-button>Login with Netlify Identity</div>
           
           {!frontmatter.thumbnail && (
             <div className="post-thumbnail">
