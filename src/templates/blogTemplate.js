@@ -12,6 +12,8 @@ export default function Template({
   return (
     <Layout>
       <Helmet>
+<script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+</head>
         <title>{frontmatter.title} | {siteMetadata.title}</title>
         <meta name="description" content={frontmatter.metaDescription} />
       </Helmet>
