@@ -19,7 +19,8 @@ export default ({ children }) => {
     <div className="site-wrapper">
       <header className="site-header">
         <div className="site-title">
-          <Link to="/">{data.site.siteMetadata.title}</Link>
+  <!-- Add a menu:
+  <div data-netlify-identity-menu></div>
         </div>
         <Navigation />
       </header>
